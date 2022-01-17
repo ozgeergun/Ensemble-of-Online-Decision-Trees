@@ -1,1 +1,1 @@
-# Ensemble-of-Online-Decision-Trees
+20501105 Özge Nur Ergün - Kolektif Öğrenme Projesi
